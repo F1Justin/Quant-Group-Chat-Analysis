@@ -41,8 +41,8 @@
 1. 克隆项目：
 
      ```sh
-     git clone <your-repo-url>
-     cd <project-folder>
+     git clone https://github.com/F1Justin/Quant-Group-Chat-Analysis/
+     cd Quant-Group-Chat-Analysis
      ```
 
 2. 安装依赖：
