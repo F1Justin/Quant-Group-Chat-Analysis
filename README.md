@@ -72,7 +72,7 @@
 
 ## 注意事项
 1. **硬编码路径**
-    本项目中部分路径和文件名是硬编码的，位于 `scripts/preprocess.py` 和 `scripts/clustering.py` 文件中，需根据实际情况修改，例如：
+    本项目中部分路径和文件名是硬编码的，位于 `scripts/time_analysis.py` 和 `scripts/user_analysis.py` 文件中，需根据实际情况修改，例如：
 
      ```python
      DATA_DIR = "/path/to/data/"
