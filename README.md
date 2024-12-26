@@ -41,7 +41,7 @@
 1. 克隆项目：
 
      ```sh
-     git clone https://github.com/F1Justin/Quant-Group-Chat-Analysis/
+     git clone https://github.com/F1Justin/Quant-Group-Chat-Analysis.git
      cd Quant-Group-Chat-Analysis
      ```
 
