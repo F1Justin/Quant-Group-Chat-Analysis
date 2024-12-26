@@ -1,0 +1,6 @@
+id,time,type,plain_text,message,group_id,user_id
+1,2024-11-05 10:54:22.000000,message,ABCD,"[{'type': 'text', 'data': {'text': 'ABCD'}}]",12345678,1122334455
+2,2024-11-05 10:55:50.254975,message_sent,,"[{'type': 'image', 'data': {'file': 'file:////home/test/exp.png', 'type': None, 'cache': 'true', 'proxy': 'true', 'timeout': None}}]",12345678,1122334455
+3,2024-11-05 10:55:59.000000,message,CDEF,"[{'type': 'text', 'data': {'text': 'CDEF'}}]",12345678,1122334455
+4,2024-11-05 10:52:01.000000,message,GHIJK,"[{'type': 'text', 'data': {'text': 'GHIJK'}}]",12345678,1122334455
+5,2024-11-05 10:52:14.000000,message,OK啊,"[{'type': 'text', 'data': {'text': 'OK啊'}}]",12345678,1122334455
