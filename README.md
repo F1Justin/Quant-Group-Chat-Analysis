@@ -52,22 +52,22 @@
      ```
 
 ### 数据处理与分析
-1. 数据预处理：
+1. 数据分析：
 
      ```sh
-     python scripts/preprocess.py
+     python scripts/content_analysis.py
      ```
 
 2. 聚类分析：
 
      ```sh
-     python scripts/clustering.py
+     python scripts/k-m-cluster.py
      ```
 
 3. 降维与可视化：
 
      ```sh
-     python scripts/visualization.py
+     python scripts/dim_reduction.py
      ```
 
 ## 注意事项
@@ -90,7 +90,7 @@
 
 ## 项目报告
 
-项目详细技术与分析结果请参阅 `report/main.tex`。报告中描述了：
+项目详细技术与分析结果请参阅 `report/report.tex`。报告中描述了：
 - 数据预处理的技术细节。
 - 聚类算法的理论与实现。
 - 降维可视化结果的分析与解读。
